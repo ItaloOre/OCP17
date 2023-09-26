@@ -15,8 +15,7 @@ public class Cap1 {
 	}
 
 	static void newSwitch() {
-		
-
+		System.out.print("HOLA mundo");
 	}
 
 }
