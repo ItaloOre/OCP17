@@ -8,14 +8,14 @@ package com.oracle.ocp.buildingBlocks;
  */
 public class Cap1 {
 
+	public int length;
+
 	public static void main(String[] args) {
-
-		newSwitch();
-
+		test1();
 	}
 
-	static void newSwitch() {
-		System.out.print("HOLA mundo");
+	static void test1() {
+		System.out.print("Metodo 1");
 	}
 
 }

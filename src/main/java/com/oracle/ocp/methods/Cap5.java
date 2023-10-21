@@ -8,15 +8,16 @@ package com.oracle.ocp.methods;
  */
 public class Cap5 {
 
+	private static final String SEPARADOR = "----------------";
+
 	public static void main(String[] args) {
+		test1();
+	}
 
-		newSwitch();
+	static void test1() {
 
 	}
 
-	static void newSwitch() {
-		
 
-	}
 
 }

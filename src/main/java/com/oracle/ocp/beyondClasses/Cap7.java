@@ -10,11 +10,11 @@ public class Cap7 {
 
 	public static void main(String[] args) {
 
-		newSwitch();
+		test1();
 
 	}
 
-	static void newSwitch() {
+	static void test1() {
 		
 
 	}

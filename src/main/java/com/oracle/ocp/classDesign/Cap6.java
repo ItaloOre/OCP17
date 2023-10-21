@@ -10,13 +10,8 @@ public class Cap6 {
 
 	public static void main(String[] args) {
 
-		newSwitch();
 
 	}
 
-	static void newSwitch() {
-		
-
-	}
 
 }
