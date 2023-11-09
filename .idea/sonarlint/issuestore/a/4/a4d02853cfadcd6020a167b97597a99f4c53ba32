@@ -1,0 +1,63 @@
+
+D
+java:S1121q".Extract the assignment out of this expression.(ÛÜ–²
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÄş«
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(“¶……øÿÿÿÿ
+[
+java:S1612."@Replace this lambda with method reference 'String::toUpperCase'.(¸”Ÿûúÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+R
+java:S1854;"5Remove this useless assignment to local variable "l".(üûÿê8Á„Úşµ1
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÍÎÉ 
+C
+java:S1481;"&Remove this unused "l" local variable.(üûÿê8Â„Úşµ1
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(œşü”
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ÏÏ³®ÿÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ËÃ¸Êùÿÿÿÿ
+[
+java:S1612Y">Replace this lambda with method reference 'Integer::parseInt'.(ï‚¯°8¨«ßşµ1
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(ˆç¦ 
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+O
+java:S1854u"9Remove this useless assignment to local variable "list2".(éø÷
+U
+java:S6213p":Rename this variable to not match a restricted identifier.(Î‡”Ûıÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(ÛÜ–²
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(™áŠóşÿÿÿÿ8¬«ßşµ1
+@
+java:S1481u"*Remove this unused "list2" local variable.(éø÷
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(ÚæÙ‡ıÿÿÿÿ8ÌÜßşµ1
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(ùó½¶ÿÿÿÿÿ8ÕÒõşµ1
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(ıÂöÀ8”Åöşµ1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8È‚öşµ1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8È‚öşµ1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8È‚öşµ1
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8È‚öşµ1
+R
+java:S1128	"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8È‚öşµ1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8È‚öşµ1
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8È‚öşµ1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8È‚öşµ1
+_
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ8È‚öşµ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8É‚öşµ1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8É‚öşµ1

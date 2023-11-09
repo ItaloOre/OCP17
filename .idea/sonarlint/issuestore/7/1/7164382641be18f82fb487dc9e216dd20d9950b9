@@ -1,0 +1,69 @@
+
+D
+java:S1121^".Extract the assignment out of this expression.(ßí¸æ
+g
+java:S1301Ä"KReplace this "switch" statement by "if" statements to increase readability.(Œ¼’ þÿÿÿÿ
+j
+java:S1104T"OMake num a static final constant or non-public and provide accessors if needed.(¤ÎÃÛûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÄ“¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íËç¦
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëÝÇã
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¨ö¾šÿÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(­»¾“úÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(³Ø½ üÿÿÿÿ
+C
+java:S2387X"("num" is the name of a field in "Super".(çÈýºøÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ßí¸æ
+M	java:S106d"9Replace this use of System.out or System.err by a logger.(—äŽ%
+x
+java:S4087h"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¨²ö¢
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(Ò­àüÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(›èÅ¢
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ü³¬Çüÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(üòšáúÿÿÿÿ
+P
+java:S1610 "4Convert the abstract class "Base" into an interface.(ô®äÕúÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(ÒÑ¸þÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ÆÑñùÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÜÇÈÝøÿÿÿÿ
+\
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(Å÷›ó
+g	java:S128Å"LEnd this switch case with an unconditional break, return or throw statement.(Ý–Ò˜ÿÿÿÿÿ
+G
+java:S4524Å"+Move this default to the end of the switch.(Ý–Ò˜ÿÿÿÿÿ
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ÁÃ¶‚
+u
+java:S1171Ð"YMove the contents of this initializer to a standard constructor or to field initializers.(Ø‡ÍÑùÿÿÿÿ
+O	java:S106Þ"9Replace this use of System.out or System.err by a logger.(Û¸ŸÄ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.( âÖßüÿÿÿÿ
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(¥ñþÂþÿÿÿÿ
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(“úÜ±
+R	java:S125è"<This block of commented-out lines of code should be removed.(ûâ•¬
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8Ì…§ùµ1
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃýÿÿÿÿ8Ì…§ùµ1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ì…§ùµ1
+O
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ì…§ùµ1
+P
+java:S1128
+"3Remove this unused import 'java.text.NumberFormat'.(¿¸ž»8×…§ùµ1
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8Ø…§ùµ1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8Ø…§ùµ1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8Ø…§ùµ1
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8Ù…§ùµ1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Ù…§ùµ1
+_
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ8ç…§ùµ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ö…§ùµ1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ö…§ùµ1

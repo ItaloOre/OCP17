@@ -1,0 +1,78 @@
+
+t
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ
+I
+java:S1121Q".Extract the assignment out of this expression.(Û•¤şÿÿÿÿ
+I
+java:S1121S".Extract the assignment out of this expression.(¡¾ÅÏúÿÿÿÿ
+2
+java:S1643l"Use a StringBuilder instead.(°”¼ò
+W
+java:S4973d"<Strings and Boxed types should be compared using "equals()".(«ç¤Âÿÿÿÿÿ
+R
+java:S4973{"<Strings and Boxed types should be compared using "equals()".(Ã ’»
+W
+java:S4973|"<Strings and Boxed types should be compared using "equals()".(‹®ÏÜıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÏ„¸
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Şïğº
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+Q
+java:S18540"6Remove this useless assignment to local variable "d2".(À”²ûÿÿÿÿÿ
+Q
+java:S1854/"6Remove this useless assignment to local variable "d1".(ğğğ¤şÿÿÿÿ
+B
+java:S1481/"'Remove this unused "d1" local variable.(ğğğ¤şÿÿÿÿ
+B
+java:S14810"'Remove this unused "d2" local variable.(À”²ûÿÿÿÿÿ
+C
+java:S56654"(Remove this unnecessary escape sequence.(·ÔÉÜøÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(­Äªúÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ãüğ£
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+<	java:S131P""Add a default case to this switch.(Œ¼’ şÿÿÿÿ
+>
+java:S6205R"(Remove this redundant block and "break".(ëÛü›
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(á›î¢úÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(Ã ’»
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(‹®ÏÜıÿÿÿÿ8Œ¡œ·1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¬èø´8’çœ·1
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(ıÂöÀ8İÁ·1
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+F
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+H
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+I
+java:S1128
+"3Remove this unused import 'java.text.NumberFormat'.(¿¸»
+K
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+J
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ
+V
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ
+X
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

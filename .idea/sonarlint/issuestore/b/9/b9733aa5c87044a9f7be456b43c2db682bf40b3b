@@ -1,0 +1,80 @@
+
+I
+java:S1121F".Extract the assignment out of this expression.(³§‘ûÿÿÿÿ
+I
+java:S1121F".Extract the assignment out of this expression.(³§‘ûÿÿÿÿ
+I
+java:S1121F".Extract the assignment out of this expression.(³§‘ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰Óš‘
+R
+java:S2589F"7Remove this expression which always evaluates to "true"(³§‘ûÿÿÿÿ
+œ
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓÓªÿÿÿÿÿ
+~
+java:S4276*"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(´ĞÎƒÿÿÿÿÿ8ÜãİÎ¶1
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Õ§­ıÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÛÔƒö
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ØºªÁùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(œÔş·ùÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ã©ÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(œáŒ¥
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(·İ¼
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ä¼œİıÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S
+java:S1854F"8Remove this useless assignment to local variable "flag".(³§‘ûÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(°úÆ«
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(³§‘ûÿÿÿÿ
+4
+java:S2178F"Correct this "|" to "||".(³§‘ûÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(Ò‰»
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ÀÜ¨
+P
+java:S1854Z"5Remove this useless assignment to local variable "d".(Øå§µøÿÿÿÿ
+A
+java:S1481Z"&Remove this unused "d" local variable.(Øå§µøÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(®…’‰
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(”ÔÆ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ÅÛ£§øÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(Âõ’
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(›ğˆÓÿÿÿÿÿ
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(ıÂöÀ8•ÂİÎ¶1
+E
+java:S3631l"/Use "Arrays.stream" instead of "Arrays.asList".(äƒÂ‚
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(Üò¾ş8æ‡åÎ¶1
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(ıÂöÀ8ç‡åÎ¶1
+Q	java:S125t"<This block of commented-out lines of code should be removed.(üşö®
+T	java:S106|"9Replace this use of System.out or System.err by a logger.(¬åA8¢©éÎ¶1
+V	java:S125x"<This block of commented-out lines of code should be removed.(¨úµÛüÿÿÿÿ
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(ıÂöÀ8ÁîìÎ¶1
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8–ÔéÎ¶1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8–ÔéÎ¶1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8–ÔéÎ¶1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8–ÔéÎ¶1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8–ÔéÎ¶1
+P
+java:S1128	"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8—ÔéÎ¶1
+R
+java:S1128
+"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8—ÔéÎ¶1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8—ÔéÎ¶1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8—ÔéÎ¶1
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8—ÔéÎ¶1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8—ÔéÎ¶1
+_
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ8—ÔéÎ¶1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8—ÔéÎ¶1

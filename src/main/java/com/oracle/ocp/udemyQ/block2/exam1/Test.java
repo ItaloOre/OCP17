@@ -16,6 +16,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.concurrent.Executors;
 import java.util.function.Predicate;
+import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -152,5 +153,60 @@ class Test7 {//OJO, FACIL VIENE
         } catch(Exception e) {
             System.out.println(e.getMessage());//SQLException
         }
+    }
+}
+
+class Document {
+    void printAuthor() {
+        System.out.println("Document-Author");
+    }
+}
+
+class RFP extends Document {
+    @Override
+    void printAuthor() {
+        System.out.println("RFP-Author");
+    }
+}
+
+class Test8 {
+    public static void main(String[] args) {
+        check(Document::new);
+        check(RFP::new);
+    }
+    //Supplier<? super RFP> supplier da error porque Object no tiene ese metodo
+    private static void check(Supplier<? extends Document> supplier) {
+        supplier.get().printAuthor();
+    }
+}
+
+enum Color {
+    RED, GREEN, BLUE;
+}
+
+record Rope(int length, Color color) {}
+
+class Test9 { //REVISAR PASO A PASO
+    public static void main(String[] args) {
+        var ropes = Stream.of(
+                new Rope(100, Color.RED),
+                new Rope(200, Color.BLUE),
+                new Rope(200, Color.RED),
+                new Rope(300, Color.RED),
+                new Rope(100, Color.BLUE));
+
+        var result = ropes.collect(
+                Collectors.teeing(//Returns a Collector that is a composite of two downstream collectors
+                        Collectors.filtering(x -> x.color() == Color.RED, Collectors.toList()),
+                        Collectors.filtering(y -> y.color() == Color.RED, Collectors.summingInt(Rope::length)),
+                        (x, y) -> {
+                            var map = new LinkedHashMap<String, Object>();
+                            map.put("RED-ROPE", x);
+                            map.put("RED-ROPE-LENGTH", y);
+                            return map;
+                        }
+                ));
+        System.out.println(((List<Rope>)result.get("RED-ROPE")).get(1).length());
+        System.out.println(result.get("RED-ROPE-LENGTH"));
     }
 }

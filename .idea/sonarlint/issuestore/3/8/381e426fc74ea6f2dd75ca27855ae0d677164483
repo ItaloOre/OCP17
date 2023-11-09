@@ -1,0 +1,66 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÏ„¸
+C
+java:S1172"(Remove this unused method parameter "x".(¼±Ş•úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹Øôçıÿÿÿÿ
+X
+java:S2094)"BRemove this empty class, write its code or make it an "interface".(•îó‚
+1
+java:S2326)"T is not used in the class.(•îó‚
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(³çÀ®şÿÿÿÿ
+M	java:S106I"9Replace this use of System.out or System.err by a logger.(Ì–˜
+M	java:S106P"9Replace this use of System.out or System.err by a logger.(ñáÉ*
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ıÿÿÿÿ
+u
+java:S2142ˆ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+O	java:S106"9Replace this use of System.out or System.err by a logger.(æÔü
+M
+java:S1854¨"6Remove this useless assignment to local variable "i1".(ø¶Êì
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(ø¶Êì
+>
+java:S1481¨"'Remove this unused "i1" local variable.(ø¶Êì
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(Ó¨¤•úÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(ï×„ úÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(Ÿ‹®ß
+N	java:S106¸"9Replace this use of System.out or System.err by a logger.(’™¶|
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(¯Üì’
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(ÛÌ´ù
+~
+java:S4276Æ"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(åÚùÿÿÿÿ8ú‹À·1
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ùÓ«Àúÿÿÿÿ8¼º¿·1
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8û‹À·1
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8û‹À·1
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8û‹À·1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8û‹À·1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8û‹À·1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8û‹À·1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8û‹À·1
+O
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8û‹À·1
+P
+java:S1128
+"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8û‹À·1
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8û‹À·1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8û‹À·1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8û‹À·1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8û‹À·1
+_
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ8û‹À·1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8û‹À·1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8û‹À·1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ü‹À·1

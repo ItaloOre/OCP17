@@ -13,6 +13,7 @@ import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.concurrent.Executors;
+import java.util.function.BiFunction;
 import java.util.function.Predicate;
 import java.util.function.UnaryOperator;
 import java.util.stream.Collectors;
@@ -38,6 +39,13 @@ public class Exam1 {
     }
 
     private static void test8() {
+        BiFunction<String, String, String> func = String::concat;
+        System.out.println(func.apply("James", "Gosling"));
+        System.out.println(IntStream.range(-10, -10).count());
+        System.out.println(IntStream.rangeClosed(-10, -10).count());
+        Stream<Number> stream = Stream.of();
+        Optional<Number> optional = stream.findFirst();
+        System.out.println(optional.orElse(-1));
     }
 
     private static void test7() {
@@ -51,6 +59,7 @@ public class Exam1 {
         System.out.println(df1.format(1234567).equals(df2.format(1234567)));
 
         System.out.println(df1.format(123456).equals(df2.format(123456)));
+        System.out.println(SEPARADOR);
     }
 
     private static void test6() {
@@ -115,6 +124,21 @@ public class Exam1 {
         System.out.println(students.size());
         System.out.println(SEPARADOR);
 
+    }
+}
+
+
+class Student {
+    private String name;
+    private int age;
+
+    Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public String toString() {
+        return "Student[" + name + ", " + age + "]";
     }
 }
 
