@@ -1,0 +1,72 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ¢ç†
+M
+java:S3958:"2Refactor the code so this stream pipeline is used.(ïÃÍàûÿÿÿÿ
+]
+java:S1075&"ARefactor your code to get this URI from a customizable parameter.(æÍ¿P8»‘…È¹1
+c
+java:S1075'"ARefactor your code to get this URI from a customizable parameter.(Ş¦À»şÿÿÿÿ8¼‘…È¹1
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÓêÑşÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S
+java:S1854/"6Remove this useless assignment to local variable "sb".(Ûê‡8¸øÇ¹1
+;
+java:S2119-"Save and re-use this "Random".(ÙÍÜ‘8ºîÇ¹1
+M	java:S106."9Replace this use of System.out or System.err by a logger.(…ƒŒ
+D
+java:S1481/"'Remove this unused "sb" local variable.(Ûê‡8ƒ¸øÇ¹1
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ßÿî
+^
+java:S1612;"CReplace this lambda with method reference 'StringBuilder::reverse'.(ÅØœ–ûÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(ÅØœ–ûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Ù³·çşÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ú½¸‹úÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+T
+java:S1854U"9Remove this useless assignment to local variable "list2".(¼Ş–—şÿÿÿÿ
+E
+java:S1481U"*Remove this unused "list2" local variable.(¼Ş–—şÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(†Âª±
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ÉÕ£„ùÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(¨€ºè
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ìİ­Ïıÿÿÿÿ8ÈåÃ¹1
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(ıÂöÀ8ºîÇ¹1
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(¿ö•8ƒÜôÇ¹1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ıÂöÀ8Ì‘…È¹1
+<
+java:S1481o"&Remove this unused "a" local variable.(ã‹Í
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8Œ¸øÇ¹1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8Œ¸øÇ¹1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Œ¸øÇ¹1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Œ¸øÇ¹1
+R
+java:S1128	"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8Œ¸øÇ¹1
+R
+java:S1128
+"0Remove this unused import 'java.time.DayOfWeek'.(Óò»¸şÿÿÿÿ8Œ¸øÇ¹1
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8Œ¸øÇ¹1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8Œ¸øÇ¹1
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8Œ¸øÇ¹1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Œ¸øÇ¹1
+_
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ8Œ¸øÇ¹1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Œ¸øÇ¹1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Œ¸øÇ¹1

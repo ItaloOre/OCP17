@@ -1,0 +1,78 @@
+
+Q
+java:S4973]"<Strings and Boxed types should be compared using "equals()".(Òûğ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ñ›ƒ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+R
+java:S18546"7Remove this useless assignment to local variable "obj".(ŞÈİ›şÿÿÿÿ
+C
+java:S14816"(Remove this unused "obj" local variable.(ŞÈİ›şÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(œä¾”
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+M	java:S106I"9Replace this use of System.out or System.err by a logger.(—ä%
+x
+java:S4087M"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(·š«
+x
+java:S4087N"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(áÔ´°
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(©¸»‰úÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(¡Ÿºèûÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ğµûüÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+M	java:S106]"9Replace this use of System.out or System.err by a logger.(Òûğ
+`
+java:S1764]"KCorrect one of the identical sub-expressions on both sides of operator "=="(Òûğ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ÎãÉè
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+K
+java:S1854n"5Remove this useless assignment to local variable "y".(ŸòÄ
+P
+java:S1854m"5Remove this useless assignment to local variable "x".(ï‰Àùÿÿÿÿ
+A
+java:S1481m"&Remove this unused "x" local variable.(ï‰Àùÿÿÿÿ
+<
+java:S1481n"&Remove this unused "y" local variable.(ŸòÄ
+M	java:S106r"9Replace this use of System.out or System.err by a logger.(ÃåòI
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(£½Å„øÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(½îÚ€ùÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+F
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+H
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+I
+java:S1128
+"3Remove this unused import 'java.text.NumberFormat'.(¿¸»
+K
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+V
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+X
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

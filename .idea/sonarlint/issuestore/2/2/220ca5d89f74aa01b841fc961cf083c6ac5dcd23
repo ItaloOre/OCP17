@@ -1,0 +1,58 @@
+
+F
+java:S3740Å"/Provide the parametrized type for this generic.(È…Òˆ
+a
+java:S1301©"KReplace this "switch" statement by "if" statements to increase readability.(°Âò8
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿™Ê½ûÿÿÿÿ
+c
+java:S2095Ÿ"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ðƒí’øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü—Œ­
+t
+java:S1171%"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ÍËÐâ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ïÁž”ùÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(¨•ÍË
+V	java:S125W"<This block of commented-out lines of code should be removed.(—£‰ðøÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(¤Ô¡¡
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(¥Œ™‚ÿÿÿÿÿ
+C
+java:S1172e"(Remove this unused method parameter "a".(¬é©Ýøÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(Ñ£ö•
+P
+java:S1161k":Add the "@Override" annotation above this method signature(ã± ±
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(Œà÷ø
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(Ò–ùû
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(öí±Åýÿÿÿÿ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(É¨Û
+V
+java:S6213¨":Rename this variable to not match a restricted identifier.(Ú°Ï¿úÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(ùø›°üÿÿÿÿ
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(ªœÝô
+?
+java:S1172´"(Remove this unused method parameter "x".(«Ä¨Â
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(Ó©‰ê
+D
+java:S1172¸"(Remove this unused method parameter "x".(œÔýžøÿÿÿÿ
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(„â¾¼
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(çÁÍ†
+p	java:S115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ðîþ
+Z
+java:S1214Ì"CMove constants defined in this interfaces to another class or enum.(•ÌÒÃ
+D
+java:S1481Ó"(Remove this unused "obj" local variable.(ªò³›ýÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(³‘äþýÿÿÿÿ
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(¿÷©¼
+N	java:S106û"9Replace this use of System.out or System.err by a logger.(å¹¼A
+S
+java:S1612û"=Replace this lambda with method reference 'Employee::salary'.(å¹¼A
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(±Žç½
+O	java:S106"9Replace this use of System.out or System.err by a logger.(á ˜«
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(ìÒÈýÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+?
+java:S1144")Remove this unused private "temp" method.(¸ÖƒÙ

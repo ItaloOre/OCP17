@@ -1,0 +1,73 @@
+
+R
+java:S49738"<Strings and Boxed types should be compared using "equals()".(¨ÁŒç
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿™Ê½ûÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(¨ÁŒç
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(­ –
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+O
+java:S1854Q"9Remove this useless assignment to local variable "flag4".(¶ÊŒî
+O
+java:S1854P"9Remove this useless assignment to local variable "flag3".(àò™Â
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ºş¢˜şÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+@
+java:S1481P"*Remove this unused "flag3" local variable.(àò™Â
+@
+java:S1481Q"*Remove this unused "flag4" local variable.(¶ÊŒî
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(¿ì÷Öıÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(±ùä“ıÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(®²„Ãûÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(©ÊŠ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(‚£éŸúÿÿÿÿ
+?
+java:S2185V"$Remove this silly call to "Math.abs"(‚£éŸúÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(óşş©
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(ş¶»ô
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(µÇÏ·
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(é©ñÔ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ùŞµÔùÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(Ê¥åèÿÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+H
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+I
+java:S1128
+"3Remove this unused import 'java.text.NumberFormat'.(¿¸»
+K
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+J
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+V
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+X
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ

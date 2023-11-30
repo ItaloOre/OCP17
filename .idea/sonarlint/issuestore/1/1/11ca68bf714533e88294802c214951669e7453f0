@@ -1,0 +1,39 @@
+
+R
+java:S4973)"<Strings and Boxed types should be compared using "equals()".(÷µ¼ 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôúœµ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓÓªÿÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Šƒõ“
+–
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æìN
+Q	java:S125"<This block of commented-out lines of code should be removed.(ü½ŸÈ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(÷µ¼ 
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ÖÚŠíşÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(—¨î
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ĞÕê»
+l
+java:S21598"VRemove this call to "equals"; comparisons between unrelated types always return false.(ĞÕê»
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(©…šÔúÿÿÿÿ
+q
+java:S21599"VRemove this call to "equals"; comparisons between unrelated types always return false.(©…šÔúÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ıÂöÀ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(À–¢¬üÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Ôß‚“
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(“ÿÈÿÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(§†©­üÿÿÿÿ
+K
+java:S1854I"5Remove this useless assignment to local variable "n".(íû¥Š
+K
+java:S1854H"5Remove this useless assignment to local variable "m".(µÁêÂ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(¶¨Û¹ıÿÿÿÿ
+6
+java:S2129O" Remove this "String" constructor(ûÁÑ·
+6
+java:S2129R" Remove this "String" constructor(²Êùœ
+F
+java:S2201T"+The return value of "replace" must be used.(ßæ¨Ëıÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ

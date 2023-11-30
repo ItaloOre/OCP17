@@ -1,0 +1,83 @@
+
+E
+java:S3740{"/Provide the parametrized type for this generic.(•ê¬º
+E
+java:S3740{"/Provide the parametrized type for this generic.(•ê¬º
+^
+java:S6208!"CMerge the previous cases into this one using comma-separated label.(©‹Ä…úÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(Á ™İ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ñ›ƒ
+_
+java:S2583S"DChange this condition so that it does not always evaluate to "false"(ˆ»ıÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¢öòøÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(š¢×øÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ˆ»ıÿÿÿÿÿ
+X
+java:S2094Y"BRemove this empty class, write its code or make it an "interface".(ñËºÃ
+P
+java:S1854\"5Remove this useless assignment to local variable "s".(Ó€µ–ıÿÿÿÿ
+A
+java:S1481\"&Remove this unused "s" local variable.(Ó€µ–ıÿÿÿÿ
+t
+java:S1171f"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Q
+java:S1117g"6Rename "i" which hides the field declared at line 101.(¨»¢†üÿÿÿÿ
+A
+java:S1481g"&Remove this unused "i" local variable.(¨»¢†üÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(ñÖŞ
+o
+java:S1171l"YMove the contents of this initializer to a standard constructor or to field initializers.(Œ¦’ë
+E
+java:S1197z"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(”‚ÌĞ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(’Ø¹é
+U
+java:S3400Š"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(š“à†
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ÀØµ¯
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(Î­ú´
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(÷©²‹8ÍìŠã¸1
+M
+java:S1172Î"*Remove this unused method parameter "val".(Ø¶Ã©ÿÿÿÿÿ8÷ĞÌã¸1
+[	java:S106Ï"9Replace this use of System.out or System.err by a logger.(‚“‡¸şÿÿÿÿ8ìÍÂã¸1
+I
+java:S1172Ò"+Remove this unused method parameter "vals".(¼Í­×8ŒÍ½ã¸1
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(¸ÛÃÖúÿÿÿÿ8øĞÌã¸1
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8™û½ã¸1
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8™û½ã¸1
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8™û½ã¸1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8šû½ã¸1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8šû½ã¸1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8šû½ã¸1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8šû½ã¸1
+O
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8šû½ã¸1
+P
+java:S1128
+"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8šû½ã¸1
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8šû½ã¸1
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8šû½ã¸1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8šû½ã¸1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8šû½ã¸1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8šû½ã¸1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8šû½ã¸1
+_
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ8šû½ã¸1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8šû½ã¸1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8šû½ã¸1

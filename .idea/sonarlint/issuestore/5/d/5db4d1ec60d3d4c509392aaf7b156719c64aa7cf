@@ -1,0 +1,74 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôúœµ
+c
+java:S1223Ï"LRename this method to prevent any misunderstanding or make it a constructor.(•¨±
+h
+java:S1223Ó"LRename this method to prevent any misunderstanding or make it a constructor.(Ö”ı‚ıÿÿÿÿ
+c
+java:S1223Ø"LRename this method to prevent any misunderstanding or make it a constructor.(ø±·ğ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ³®˜úÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Üë˜§şÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÕÅ•şÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(š¼É¼
+¥
+java:S18454"Rename method "Log" to prevent any misunderstanding/clash with method "log" defined in superclass "com.oracle.ocp.udemyQ.block1.exam4.Logger".(Ä¢ğÃ
+c	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¢ğÃ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(¯¼İ´
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(²ÓÇªüÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ê›ÃØşÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(§‡œš
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ì€«õ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(àØØÒ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(Ïã«÷
+n
+java:S1171^"YMove the contents of this initializer to a standard constructor or to field initializers.(±Ù’p
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(æËÉŸ
+L
+java:S1612y"6Replace this lambda with method reference 'Util::get'.(³‚Ò—
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+u	java:S115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—Æ—Áøÿÿÿÿ
+Z
+java:S1214‡"CMove constants defined in this interfaces to another class or enum.(­Îå¢
+T	java:S106"9Replace this use of System.out or System.err by a logger.(«Ï‘øÿÿÿÿ
+Q
+java:S2209"5Change this instance-reference to a static reference.(«Ï‘øÿÿÿÿ
+H
+java:S1610“"1Convert the abstract class "A" into an interface.(™úëò
+Y
+java:S2094“"BRemove this empty class, write its code or make it an "interface".(™úëò
+\
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(™úëò
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ú„ó¹şÿÿÿÿ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+Q	java:S125ª"<This block of commented-out lines of code should be removed.(¹ı
+N	java:S106¶"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+g	java:S128Ã"LEnd this switch case with an unconditional break, return or throw statement.(ÄØë¡øÿÿÿÿ
+b	java:S128Á"LEnd this switch case with an unconditional break, return or throw statement.(¹Å•ï
+g	java:S128¿"LEnd this switch case with an unconditional break, return or throw statement.(İ–Ò˜ÿÿÿÿÿ
+G
+java:S4524¿"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+O	java:S106À"9Replace this use of System.out or System.err by a logger.(„‚‚
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(ÔÃùÊ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(‰’ç§ıÿÿÿÿ
+T	java:S106Æ"9Replace this use of System.out or System.err by a logger.(Ê÷ûÿÿÿÿ
+d	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¨±
+i	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö”ı‚ıÿÿÿÿ
+d	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø±·ğ
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(îÉäÿÿÿÿÿ
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(˜ëº
+R	java:S125ü"<This block of commented-out lines of code should be removed.(ŠÊ¾ª
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ëºŸ×
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(ûÚÄ½
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶

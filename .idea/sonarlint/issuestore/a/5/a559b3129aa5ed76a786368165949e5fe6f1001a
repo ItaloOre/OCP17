@@ -1,0 +1,54 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÄ“¶
+œ
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓÓªÿÿÿÿÿ
+—
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Šƒõ“
+—
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±üñµ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(µˆœÑ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ê•ËŞ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+P
+java:S1854J":Remove this useless assignment to local variable "stream".(ã—Õ•
+E
+java:S3631J"/Use "Arrays.stream" instead of "Arrays.asList".(ã—Õ•
+A
+java:S1481J"+Remove this unused "stream" local variable.(ã—Õ•
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(í±•¯
+H
+java:S1611]"2Remove the parentheses around the "set1" parameter(ŒÙœ
+T
+java:S1612]">Replace this lambda with method reference 'System.out::print'.(ŒÙœ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ŒÙœ
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+E
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø
+I
+java:S1128	"3Remove this unused import 'java.text.NumberFormat'.(¿¸»
+K
+java:S1128
+"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+X
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(¿óó›øÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ

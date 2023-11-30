@@ -1,0 +1,95 @@
+
+J
+java:S3740o"/Provide the parametrized type for this generic.(ş±ƒ¾ùÿÿÿÿ
+D
+java:S3740p"/Provide the parametrized type for this generic.(Ù©ÛS
+>
+java:S16048"(Make this anonymous inner class a lambda( æµè
+a
+java:S1301Ú"KReplace this "switch" statement by "if" statements to increase readability.(°Âò8
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ€·Ïûÿÿÿÿ
+r
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ş†­Àıÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¹ö®ó
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¦œÌ¦
+]
+java:S2094D"BRemove this empty class, write its code or make it an "interface".(´ëû¸ùÿÿÿÿ
+K
+java:S1854H"5Remove this useless assignment to local variable "r".(ËÔÀ¦
+<
+java:S1481H"&Remove this unused "r" local variable.(ËÔÀ¦
+?
+java:S2201S")The return value of "minus" must be used.(«ëË¡
+>
+java:S2201U"(The return value of "plus" must be used.(¨ñ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ùéÊ—
+M
+java:S1612c"7Replace this lambda with method reference 'Person::id'.(í§«é
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(÷ ì²
+N
+java:S1854k"8Remove this useless assignment to local variable "list".(æ¾¹Á
+?
+java:S1481k")Remove this unused "list" local variable.(æ¾¹Á
+C
+java:S1172y"(Remove this unused method parameter "s".(¾¾Çáÿÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(•¹éã
+>
+java:S1172}"(Remove this unused method parameter "s".(ÿçêÃ
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(­…¶ƒ
+?
+java:S1172"(Remove this unused method parameter "s".(ÿı¸¼
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(˜¨—ßüÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+d
+java:S5361–"HReplace this call to "replaceAll()" by a call to the "replace()" method.(„ÊÂßúÿÿÿÿ
+d
+java:S5361•"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Æ»¨Õûÿÿÿÿ
+_
+java:S5361”"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ôç›
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(çÃ›ë
+X
+java:S1854º"<Remove this useless assignment to local variable "function".(ô——Îùÿÿÿÿ
+H
+java:S1602¶",Remove useless curly braces around statement(âùóıùÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(ÏÚû©úÿÿÿÿ
+y
+java:S4276º"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ô——Îùÿÿÿÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(ÏÚû©úÿÿÿÿ
+I
+java:S1481º"-Remove this unused "function" local variable.(ô——Îùÿÿÿÿ
+S
+java:S1854Æ"7Remove this useless assignment to local variable "msg".(œ÷–Úùÿÿÿÿ
+T
+java:S1117Æ"8Rename "msg" which hides the field declared at line 196.(œ÷–Úùÿÿÿÿ
+D
+java:S1481Æ"(Remove this unused "msg" local variable.(œ÷–Úùÿÿÿÿ
+V
+java:S6213Ù":Rename this variable to not match a restricted identifier.(Ö°çÄúÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Ÿäµ¼úÿÿÿÿ
+R	java:S125ß"<This block of commented-out lines of code should be removed.(øª
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(ÿò›ÿÿÿÿÿ
+u	java:S115è"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Üâúøÿÿÿÿ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(ê©½ıÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(ü•Á¹
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+F
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+F
+java:S1128	"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+I
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸»
+K
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+>
+java:S1068Ä"'Remove this unused "msg" private field.(÷âÉÁ
